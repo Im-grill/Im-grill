@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Profile</h1>
-<h1 align="center">Hi, I'm Minh Tam (also know as Fakku)</a>!</h1>
+<h1 align="center">Hi, I'm Minh Tam (also know as Grill)</a>!</h1>
 
 
 <b>Full Name :</b> Hoang Minh Tam
