@@ -18,7 +18,7 @@
 </li>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Im-grill/Im-grill/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Im-grill/Im-grill/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <h1 align="center">Software & Tools</h1>
